@@ -1,3 +1,4 @@
+![logo](https://github.com/anshika-varsh/anshika-varsh/blob/main/Anshika%20Varshney.png)
 <h1 align="center">Hi 👋, I'm Anshika Varshney</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/89821bf1-423e-49e9-8311-4befd31449ad"/>
